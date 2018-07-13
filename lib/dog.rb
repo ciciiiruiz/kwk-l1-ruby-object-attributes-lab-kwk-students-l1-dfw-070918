@@ -21,6 +21,7 @@ class Dog
   
   def person=(person)
     @person = person
+  end
 end
 
 puts 
